@@ -3,3 +3,17 @@
     background-color: #f8dcdc;
     color: #434455;
 }
+.logo{
+    font-family: "Raleway"; 
+    font-weight: 800;
+    font: size 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.web {
+    color: #4D5AE5;
+}
+.studio{
+    color:#000000;
+}
